@@ -1,0 +1,27 @@
+.logo { 
+  width: 120px;
+  z-index: 2;
+}
+
+.paid-stamp {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  transform: rotate(-15deg);
+  z-index: 3;
+}
+
+.pagado {
+  position: absolute;
+  right: 30px;
+  font-size: 3rem;
+  color: red;
+  opacity: 0.75;
+  z-index: 20;
+  transform: rotate(-10deg);
+}
+
+body {
+  background-color: #fffde9; /*Color de fondo*/
+}
