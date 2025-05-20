@@ -16,7 +16,7 @@
   position: absolute;
   right: 30px;
   font-size: 3rem;
-  color: red;
+  color: rgb(3, 47, 245);
   opacity: 0.75;
   z-index: 20;
   transform: rotate(-10deg);
